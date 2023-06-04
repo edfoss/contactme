@@ -9,12 +9,12 @@
 
 First line.
 
-example.com/@user
+example.com/@user1
 
-http://example.com/@user
+http://example.com/@user2
 
-https://example.com/@user
+https://example.com/@user3
 
-<a rel="me nofollow" href="https://example.com/@user" target="_blank">User</a>
+<a rel="me nofollow" href="https://example.com/@user4" target="_blank">User</a>
 
 Last line.
